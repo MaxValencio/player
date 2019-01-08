@@ -29,7 +29,7 @@ class FileFinder {
         }
     }
 
-    List<Mp3Track> getTrecks() {
+    List<Mp3Track> getTracks() {
         return trecks;
     }
 

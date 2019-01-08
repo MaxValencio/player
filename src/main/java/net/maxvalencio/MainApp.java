@@ -26,6 +26,7 @@ public class MainApp extends Application {
         primaryStage.setScene(scene);
         primaryStage.setMinHeight(510);
         primaryStage.setMinWidth(610);
+        primaryStage.setMaxWidth(800);
         primaryStage.show();
         primaryStage.setOnCloseRequest(new EventHandler<WindowEvent>() {
             @Override

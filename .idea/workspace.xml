@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbaae0a4-fe4f-4d23-869d-cf3ec334a50d" name="Default Changelist" comment="" />
+    <list default="true" id="dbaae0a4-fe4f-4d23-869d-cf3ec334a50d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/PlayerStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/maxvalencio/CollectionPlaylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/CollectionPlaylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/maxvalencio/FileFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/FileFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/maxvalencio/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/maxvalencio/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Playlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/deskPlayerUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/fxml/deskPlayerUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/DeskPlayer-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/DeskPlayer-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fxml/deskPlayerUI.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fxml/deskPlayerUI.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/CollectionPlaylist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/maxvalencio/CollectionPlaylist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/FileFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/maxvalencio/FileFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/MainController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/maxvalencio/MainController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/MainController$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/MainController$2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/MainController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/maxvalencio/MainController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/maxvalencio/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/Mp3Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/maxvalencio/Mp3Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/Mp3Track.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/maxvalencio/Mp3Track.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/maxvalencio/interfaces/Playlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/maxvalencio/interfaces/Playlist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jfx/app/DeskPlayer-1.0-SNAPSHOT-jfx.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/jfx/app/DeskPlayer-1.0-SNAPSHOT-jfx.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,26 +43,33 @@
     <session id="315437422">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.26" value="2" />
-          <entry key="project.open.time.3" value="5" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="2" />
-          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.49" value="3" />
+          <entry key="project.open.time.50" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -40,35 +77,35 @@
           <entry key="class" value="3" />
           <entry key="css" value="313" />
           <entry key="dummy" value="19" />
-          <entry key="fxml" value="292" />
-          <entry key="java" value="16337" />
-          <entry key="xml" value="279" />
+          <entry key="fxml" value="366" />
+          <entry key="java" value="28683" />
+          <entry key="xml" value="327" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="3" />
           <entry key="CSS" value="313" />
-          <entry key="JAVA" value="16337" />
+          <entry key="JAVA" value="28683" />
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="XML" value="571" />
+          <entry key="XML" value="693" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="20" />
+          <entry key="class" value="33" />
           <entry key="css" value="4" />
-          <entry key="fxml" value="2" />
-          <entry key="java" value="24" />
-          <entry key="xml" value="3" />
+          <entry key="fxml" value="4" />
+          <entry key="java" value="48" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="20" />
+          <entry key="CLASS" value="33" />
           <entry key="CSS" value="4" />
-          <entry key="JAVA" value="24" />
-          <entry key="XML" value="5" />
+          <entry key="JAVA" value="48" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -76,71 +113,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/MainApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
-              <caret line="85" column="80" selection-start-line="85" selection-start-column="80" selection-end-line="85" selection-end-column="80" />
+            <state relative-caret-position="397">
+              <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3747#3748#0" expanded="true" />
+                <element signature="e#3791#3792#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/deskPlayerUI.fxml">
-          <provider editor-type-id="JavaFX-Scene-Builder" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayerEventLauncher.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayerListener.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayer.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9928">
-              <caret line="640" column="16" selection-start-line="640" selection-start-column="16" selection-end-line="640" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -148,11 +129,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="3230">
+              <caret line="216" column="66" selection-start-line="216" selection-start-column="66" selection-end-line="216" selection-end-column="66" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#!!doc;n#posValue#0;n#Mp3Player#0" expanded="true" />
+                <element signature="e#7455#7456#0" expanded="true" />
+                <element signature="e#7553#7554#0" expanded="true" />
+                <element signature="e#7588#7589#0" expanded="true" />
+                <element signature="e#7658#7659#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Track.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -160,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/CollectionPlaylist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="493">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,10 +164,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Playlist.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="374">
+              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/deskPlayerUI.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="190" selection-start-line="13" selection-start-column="190" selection-end-line="13" selection-end-column="190" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/MainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/FileFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -186,8 +217,12 @@
         <option value="FxmlFile" />
         <option value="CSS File" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -195,7 +230,6 @@
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/impl/Mp3Treck.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/impl/FileFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/impl/Player.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/FileFinder.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Treck.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Track.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Treck.java" />
@@ -203,23 +237,26 @@
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Plaulist.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/CollectionPlaylist.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Playlist.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/TreadPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/Tread.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/ThreadPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/AudioThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/PlayerImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/CollectionPlaylist.java" />
         <option value="$PROJECT_DIR$/src/main/resources/fxml/my.css" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/PlayThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/BPlayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Track.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Playlist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/PlayerStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/FileFinder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/CollectionPlaylist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/MainController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Track.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Player.java" />
         <option value="$PROJECT_DIR$/src/main/resources/fxml/deskPlayerUI.fxml" />
         <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/MainApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Player.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -241,7 +278,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1358" />
     <option name="y" value="-430" />
     <option name="width" value="1936" />
@@ -300,6 +337,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -339,7 +377,24 @@
               <item name="DeskPlayer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="maxvalencio" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeskPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeskPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DeskPlayer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DeskPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="fxml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DeskPlayer" type="b2602c69:ProjectViewProjectNode" />
@@ -367,13 +422,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="focus&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/com/sun/javafx/tk/FocusCause.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545160324062" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../basicplayer3.0 (1)" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546982757775" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jlgui3.0" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -442,11 +496,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-430" width="1936" height="1066" extended-state="7" />
-    <editor active="true" />
+    <frame x="1358" y="-430" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4962631" visible="true" weight="0.1359275" />
-      <window_info id="Structure" order="1" sideWeight="0.5037369" side_tool="true" weight="0.16204691" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49552238" visible="true" weight="0.2249467" />
+      <window_info id="Structure" order="1" sideWeight="0.5044776" side_tool="true" weight="0.1924307" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -454,15 +507,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49394855" weight="0.28218883" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49394855" weight="0.28540772" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32939914" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.38948497" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5060514" side_tool="true" weight="0.4951613" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49394855" weight="0.32188842" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49394855" weight="0.32081544" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -481,31 +534,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/scene/control/Slider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8381">
-          <caret line="653" column="32" selection-start-line="653" selection-start-column="32" selection-end-line="653" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Track.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/beans/property/SimpleStringProperty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="72" column="11" selection-start-line="72" selection-start-column="11" selection-end-line="72" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/FileFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="52" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -596,14 +628,60 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/PlayThread.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayerEvent.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/BPlayer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Track.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/BPlayer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/scene/control/Slider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="215" column="24" selection-start-line="215" selection-start-column="24" selection-end-line="215" selection-end-column="24" />
+          <folding>
+            <element signature="e#6396#6397#0" expanded="true" />
+            <element signature="e#6450#6451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayerException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/beans/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="75" column="9" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/beans/value/ObservableValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="107" column="9" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/PlayerStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Playlist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicController.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -611,93 +689,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Track.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/MainApp.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayerListener.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="85" column="80" selection-start-line="85" selection-start-column="80" selection-end-line="85" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/deskPlayerUI.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayerEventLauncher.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="18" column="108" lean-forward="true" selection-start-line="18" selection-start-column="108" selection-end-line="18" selection-end-column="108" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayerListener.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayerEvent.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="-106">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/basicplayer/3.0.0.0/basicplayer-3.0.0.0.jar!/javazoom/jlgui/basicplayer/BasicPlayer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9928">
-          <caret line="640" column="16" selection-start-line="640" selection-start-column="16" selection-end-line="640" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="7786">
+          <caret line="504" column="19" selection-start-line="504" selection-start-column="19" selection-end-line="504" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/CollectionPlaylist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="493">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Playlist.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/interfaces/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/FileFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        <state relative-caret-position="374">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Track.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="70" selection-start-line="30" selection-start-column="70" selection-end-line="30" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3747#3748#0" expanded="true" />
+            <element signature="e#3791#3792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/Mp3Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="216" column="66" selection-start-line="216" selection-start-column="66" selection-end-line="216" selection-end-column="66" />
+          <folding>
+            <element signature="n#!!doc;n#posValue#0;n#Mp3Player#0" expanded="true" />
+            <element signature="e#7455#7456#0" expanded="true" />
+            <element signature="e#7553#7554#0" expanded="true" />
+            <element signature="e#7588#7589#0" expanded="true" />
+            <element signature="e#7658#7659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/deskPlayerUI.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="190" selection-start-line="13" selection-start-column="190" selection-end-line="13" selection-end-column="190" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/maxvalencio/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
         </state>
       </provider>
     </entry>
